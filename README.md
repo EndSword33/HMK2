@@ -161,7 +161,7 @@ ros2 run aruco_ros single --ros-args \
 ```
 
 ```bash
-ros2 launch ros2_kdl_package ros2_kdl_node_launch.py   cmd_interface:=velocity   ctrl:=vision
+ros2 launch ros2_kdl_package ros2_kdl_node.launch.py   cmd_interface:=velocity   ctrl:=vision
 ```
 
 
